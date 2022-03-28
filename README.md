@@ -50,7 +50,7 @@ unconditional jump instructions and address instructions:
 
 <h3>3) Unconditional jump instructions</h3>
 
-![image](https://user-images.githubusercontent.com/92127059/160308175-3326190f-e5e4-4c24-87f5-593849a98bbf.png)
+![image](https://user-images.githubusercontent.com/92127059/160314114-b28bce01-f73a-4a9e-9dfc-9ae1ff208bd9.png)
 
 <h3>4) Address instructions</h3>
 
