@@ -158,9 +158,11 @@ realized by microprogramming.
 <h1>Final result</h1>
 Main screen:
 
-![Image](https://user-images.githubusercontent.com/92127059/160317092-d5babbf8-1929-4a1a-bb2e-08e13a51d611.png)
+![image](https://user-images.githubusercontent.com/92127059/160317571-77a569ad-15c5-4192-97e7-cf14578ddc74.png)
+
 
 CPU screen:
+![image](https://user-images.githubusercontent.com/92127059/160317615-1d6d73f6-23c1-4333-9e4b-6ad201dd9f38.png)
 
 
 
