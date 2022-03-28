@@ -9,12 +9,12 @@ Processor realization project according to to a given specification of his archi
 
 <h1>Navigation</h1>
 
-<h3>The project is located in the   <b>MAINProject.circ</b>   file, while the other .circ files are libraries.
+The project is located in the   <b>MAINProject.circ</b>   file, while the other .circ files are libraries.
  
 The   <b>MICROINSTRUCTIONS FORMAT.xlsx</b>   file contains formats of microinstrctions and 
   microinstructions memory image of control units realized by microprogramming for each phase.
   The files Microoperation   <b>flow diagram - [nameOfStage] Stage.pdf </b>   represents flow diagrams of control signals sequences for each phase.
-</h3>
+
 
 <hr />
 <h1>Processor architecture</h1>
