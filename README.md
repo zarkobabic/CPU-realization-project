@@ -18,7 +18,7 @@ The files Microoperation <b>flow diagram - [nameOfStage] Stage.pdf </b> represen
 
 
 <hr />
-<h2>Processor architecture</h2>
+<h1>Processor architecture</h1>
 
 
 
