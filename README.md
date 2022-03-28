@@ -54,9 +54,7 @@ unconditional jump instructions and address instructions:
 
 <h3>4) Address instructions</h3>
 
-![image](https://user-images.githubusercontent.com/92127059/160308208-396e2db9-595f-4b26-9033-c42ac7510d2b.png)
-
-![image](https://user-images.githubusercontent.com/92127059/160308227-eea3917b-b4e1-4ab5-8a8e-bd2687bb1c7f.png)
+![image](https://user-images.githubusercontent.com/92127059/160315105-4208ed7f-1e82-41fc-bd7e-7cbd4aa32285.png)
 
 STRCPY - instruction copies a string of characters whose starting address is in register BR0 in
 memory from the address located in the BR1 register.
