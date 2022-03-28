@@ -67,7 +67,7 @@ X - bits not used.
 R - bits denoting the base / index register index used. In the case of
 base index addressing with bit shift IR16 indicates which base-index pair
 the register is used (BR0 and XR0 or BR1 and XR1).
-P - bits that represent scroll with character.
+P - bits that represent signed offset.
 
 
 <h3>PSW registry format:</h3>
