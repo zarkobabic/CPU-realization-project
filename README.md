@@ -61,7 +61,7 @@ memory from the address located in the BR1 register.
 
 Addressing methods:
 
-![image](https://user-images.githubusercontent.com/92127059/160308259-8a1ee5ec-203b-4486-991c-c836cebf212c.png)
+![image](https://user-images.githubusercontent.com/92127059/160316074-20e953e1-14be-40ac-9b3d-5b6fe71c2073.png)
 
 X - bits not used.
 
