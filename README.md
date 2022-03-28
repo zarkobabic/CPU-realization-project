@@ -28,19 +28,24 @@ unconditional jump instructions and address instructions:
 
 
 2) Conditional jump instructions
+
 ![image](https://user-images.githubusercontent.com/92127059/160308163-1dea7442-64a1-43ec-8a9c-80954720a6ce.png)
 
 3) Unconditional jump instructions
+
 ![image](https://user-images.githubusercontent.com/92127059/160308175-3326190f-e5e4-4c24-87f5-593849a98bbf.png)
 
 4) Address instructions
+
 ![image](https://user-images.githubusercontent.com/92127059/160308208-396e2db9-595f-4b26-9033-c42ac7510d2b.png)
+
 ![image](https://user-images.githubusercontent.com/92127059/160308227-eea3917b-b4e1-4ab5-8a8e-bd2687bb1c7f.png)
 
 STRCPY - instruction copies a string of characters whose starting address is in register BR0 in
 memory from the address located in the BR1 register.
 
 Addressing methods:
+
 ![image](https://user-images.githubusercontent.com/92127059/160308259-8a1ee5ec-203b-4486-991c-c836cebf212c.png)
 
 X - bits not used.
@@ -51,6 +56,7 @@ P - bits that represent scroll with character.
 
 
 PSW registry format:
+
 ![image](https://user-images.githubusercontent.com/92127059/160308309-edd8aab6-32b4-4492-a6f9-6c76b00cfffb.png)
 
 An inactive PSWSTART bit rate stops CPU operation, while an active value returns
