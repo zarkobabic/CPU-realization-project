@@ -74,7 +74,7 @@ P - bits that represent signed offset.
 
 <h3>PSW registry format:</h3>
 
-![image](https://user-images.githubusercontent.com/92127059/160308309-edd8aab6-32b4-4492-a6f9-6c76b00cfffb.png)
+![image](https://user-images.githubusercontent.com/92127059/160316139-08906548-e2ac-48d2-841e-40b72f613f44.png)
 
 An inactive PSWSTART bit rate stops CPU operation, while an active value returns
 processor in operation.
