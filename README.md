@@ -7,7 +7,7 @@ Processor realization project according to to a given specification of his archi
 
 <hr />
 
-<h1>Navigation</h1>
+<h2>Navigation</h2>
 
 The project is located in the  <b>MAINProject.circ</b>  file, while the other .circ files are libraries.
  
@@ -18,7 +18,7 @@ The files Microoperation <b>flow diagram - [nameOfStage] Stage.pdf </b> represen
 
 
 <hr />
-<h1>Processor architecture</h1>
+<h2>Processor architecture</h2>
 
 
 
