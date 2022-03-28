@@ -5,6 +5,11 @@ Processor realization project according to to a given specification of his archi
 
 [This was a project for the subject of computer hardware 2 in the second year of the Faculty of Electrical Engineering, University of Belgrade]
 
+<hr />
+<h1>Processor architecture</h1>
+
+
+
 In this project, a processor of the following specifications was designed using a logisim environment:
 
 
