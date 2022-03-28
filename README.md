@@ -7,7 +7,7 @@ Processor realization project according to to a given specification of his archi
 
 <hr />
 
-<h2>Navigation</h2>
+<h1>Navigation</h1>
 
 The project is located in the  <b>MAINProject.circ</b>  file, while the other .circ files are libraries.
  
