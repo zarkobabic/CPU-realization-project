@@ -6,6 +6,15 @@ Processor realization project according to to a given specification of his archi
 [This was a project for the subject of computer hardware 2 in the second year of the Faculty of Electrical Engineering, University of Belgrade]
 
 <hr />
+
+<h1>Navigation</h1>
+
+<h3>The project is located in the <h2>MAINProject.circ</h2> file, while the other .circ files are libraries. 
+The <b>MICROINSTRUCTIONS FORMAT.xlsx</b> file contains formats of microinstrctions and microinstructions memory image of control units realized by microprogramming for each phase.
+The files Microoperation <b>flow diagram - [nameOfStage] Stage.pdf </b> represents flow diagrams of control signals sequences for each phase.
+</h3>
+
+<hr />
 <h1>Processor architecture</h1>
 
 
