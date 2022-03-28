@@ -27,20 +27,20 @@ There are addressless instructions in the processor, conditional jump instructio
 unconditional jump instructions and address instructions:
 
 
-1) Addressless instructions
+<h3>1) Addressless instructions</h3>
 
 ![image](https://user-images.githubusercontent.com/92127059/160308142-cf7b4f68-5372-4e91-b79b-1ab036558a69.png)
 
 
-2) Conditional jump instructions
+<h3>2) Conditional jump instructions</h3>
 
 ![image](https://user-images.githubusercontent.com/92127059/160308163-1dea7442-64a1-43ec-8a9c-80954720a6ce.png)
 
-3) Unconditional jump instructions
+<h3>3) Unconditional jump instructions</h3>
 
 ![image](https://user-images.githubusercontent.com/92127059/160308175-3326190f-e5e4-4c24-87f5-593849a98bbf.png)
 
-4) Address instructions
+<h3>4) Address instructions</h3>
 
 ![image](https://user-images.githubusercontent.com/92127059/160308208-396e2db9-595f-4b26-9033-c42ac7510d2b.png)
 
@@ -60,7 +60,7 @@ the register is used (BR0 and XR0 or BR1 and XR1).
 P - bits that represent scroll with character.
 
 
-PSW registry format:
+<h3>PSW registry format:</h3>
 
 ![image](https://user-images.githubusercontent.com/92127059/160308309-edd8aab6-32b4-4492-a6f9-6c76b00cfffb.png)
 
@@ -110,9 +110,9 @@ IVTP 0h. The rst signal is used in each implemented block.
 
 
 
-BLOCKS EXPLANATION:
+<h2>BLOCKS EXPLANATION:</h2>
 
-1) Instruction fetch block (FETCH block). The FETCH block starts with the instructions read phase
+1) Instruction fetch block (<b>FETCH block</b>). The FETCH block starts with the instructions read phase
 if both the FETCH flip-flop and the PSWSTART bit have a value of 1. After
 completed reading the instruction, by entering a value of 1 in the flip-flops ADDR or EXEC
 the ADDR block or the EXEC block is started, while entering the value 0 in the flip-flop FETCH
@@ -121,19 +121,19 @@ instruction with undefined operating code or in case of undefined mode
 addressing or in the case of an unauthorized combination of the operating code and the addressing method.
 Immediately upon activating the grinst signal processor proceed to loading the next instruction.
 
-2) Address generation block and operand retrieval (ADDR block). The ADDR block starts
+2) Address generation block and operand retrieval (<b>ADDR block</b>). The ADDR block starts
 with forming the operand address and reading the operand if there is a value of 1 in the ADDR flip-flop. 
 After completing the formation of the address and retrieving the operand by entering the value 1
 in flip-flop EXEC the EXEC block is started and extended with the execution of the execution phase
 operations, while entering a value of 0 in the ADDR flip-flop stops the ADDR block.
 
-3) Operation execution block (EXEC block). The EXEC block starts with a operation performing phase
+3) Operation execution block (<b>EXEC block</b>). The EXEC block starts with a operation performing phase
 if the flip-flop EXEC has a value of 1. Upon completion
 performing the operation entering the value 1 in the flip-flop INTR starts the block INTR and
 it is extended with the execution of the interrupt service phase, while by entering the value 0 in
 flip-flop EXEC stops the EXEC block.
 
-4) Interrupt service block (INTR block). The INTR block starts with a phase
+4) Interrupt service block (<b>INTR block</b>). The INTR block starts with a phase
 interrupt service if the INTR flip-flop has a value of 1. Upon completion
 interrupt operation by entering the value 1 in the flip-flop FETCH the FETCH block is started
 and starts with the phase of reading the next instruction, while entering the value 0 in the flip flop INTR stops the block INTR.
