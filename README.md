@@ -9,7 +9,7 @@ Processor realization project according to to a given specification of his archi
 
 <h1>Navigation</h1>
 
-The project is located in the   <b>MAINProject.circ</b>   file, while the other .circ files are libraries.
+The project is located in the /t  <b>MAINProject.circ</b> /t  file, while the other .circ files are libraries.
  
 The   <b>MICROINSTRUCTIONS FORMAT.xlsx</b>   file contains formats of microinstrctions and 
   microinstructions memory image of control units realized by microprogramming for each phase.
