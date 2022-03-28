@@ -41,7 +41,7 @@ unconditional jump instructions and address instructions:
 
 <h3>1) Addressless instructions</h3>
 
-![image](https://user-images.githubusercontent.com/92127059/160313350-fb4450f6-21ac-47ab-974d-f312569fd7e5.png)
+![image](https://user-images.githubusercontent.com/92127059/160314218-e8900229-3961-498a-9700-23247afcb389.png)
 
 
 <h3>2) Conditional jump instructions</h3>
