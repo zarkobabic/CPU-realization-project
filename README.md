@@ -162,6 +162,7 @@ realized by microprogramming.
 
 
 <h4>CPU screen:</h4>
+
 ![image](https://user-images.githubusercontent.com/92127059/160317615-1d6d73f6-23c1-4333-9e4b-6ad201dd9f38.png)
 
 
