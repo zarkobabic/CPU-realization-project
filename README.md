@@ -64,9 +64,11 @@ Addressing methods:
 ![image](https://user-images.githubusercontent.com/92127059/160308259-8a1ee5ec-203b-4486-991c-c836cebf212c.png)
 
 X - bits not used.
+
 R - bits denoting the base / index register index used. In the case of
 base index addressing with bit shift IR16 indicates which base-index pair
 the register is used (BR0 and XR0 or BR1 and XR1).
+
 P - bits that represent signed offset.
 
 
