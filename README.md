@@ -153,3 +153,16 @@ and starts with the phase of reading the next instruction, while entering the va
 The operating unit of each block is realized by direct connection
 switching networks, and each block except the COMMON block have a control unit
 realized by microprogramming.
+
+<hr />
+<h1>Final result</h1>
+Main screen:
+
+![image](https:![Untitled](https://user-images.githubusercontent.com/92127059/160317092-d5babbf8-1929-4a1a-bb2e-08e13a51d611.png)
+
+CPU screen:
+//user-images.githubusercontent.com/92127059/160316663-990c7e75-eb46-4655-a3d2-e699c2d8522c.png)
+
+
+
+
