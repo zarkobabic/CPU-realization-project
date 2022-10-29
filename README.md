@@ -1,7 +1,7 @@
 # RISC CPU-realization-project
 
 
-Processor realization project according to to a given specification of his architecture - use of standard combination and sequence modules for processor implementation in logisim enviroment
+Designing a programmable RISC CPU hardware with a small set of instructions - use of standard combination and sequence modules for processor implementation in logisim enviroment
 
 [This was a project for the subject of computer hardware 2 in the second year of the Faculty of Electrical Engineering, University of Belgrade]
 
